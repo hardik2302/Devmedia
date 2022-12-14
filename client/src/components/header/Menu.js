@@ -9,6 +9,7 @@ import NotifyModal from '../NotifyModal'
 const Menu = () => {
     const navLinks = [
         { label: 'Home', icon: 'home', path: '/'},
+        { label: 'Contest', icon: 'play_arrow', path: '/contest'},
         { label: 'Message', icon: 'near_me', path: '/message'},
         { label: 'Discover', icon: 'explore', path: '/discover'},
         { label: 'Location', icon: 'location_on', path: '/geolocation'}

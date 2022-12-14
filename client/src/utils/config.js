@@ -1,1 +1,1 @@
-export const BASE_URL = 'https://devmedia-application.herokuapp.com/'
+export const BASE_URL = 'https://Connect_U-application.herokuapp.com/'

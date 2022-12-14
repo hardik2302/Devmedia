@@ -1,0 +1,70 @@
+.page{
+    margin-bottom: 25px;
+}
+.space{
+    margin-top: 25px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.col1{
+    width: 50%;
+    padding: 2%;   
+}
+.col2{
+    width: 50%;
+    padding: 2%;
+}
+.box{
+    border: 2px solid black;
+    padding: 1%;
+    width: 54%;
+    border-radius: 10px;
+    margin-top: 2%;
+}
+.heading{
+    text-align: right;
+}
+.subheading{
+    text-align: right;
+}
+button{
+    margin-top: 12px;
+    padding: 0.2% 4%;
+    border: none;
+    outline: none;
+    font-size: 24px;
+    float: right;
+}
+img{
+    width: 80%;
+}
+.filterhead{
+    font-size: 24px;
+    margin-left: 8px;
+}
+.filtersub{
+    float: right;
+    font-size: 15px;
+    margin-top: 12px;
+    margin-right: 5px;
+    color: rgb(12, 12, 28);
+}
+.filter{
+    background-color: bisque;
+    margin-top: 150px;
+    width: 380px;
+    padding: 8px;
+    border: 1px solid bisque;
+    border-radius: 10px;
+}
+.size{
+    font-size: 20px;
+}
+.rad{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.rady{
+    margin-right: 5px;
+    margin-left: 5px;
+}

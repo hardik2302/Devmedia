@@ -1,4 +1,4 @@
-## Demo: https://devmedia-application.herokuapp.com/
+## Demo: https://Connect_U-application.herokuapp.com/
 
 ## Install dependencies for server 
 ### `npm install`
